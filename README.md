@@ -39,4 +39,4 @@ A modern e-commerce product catalog built with Vite, React, TypeScript, and Redu
 ## Deployment
 
 The application is deployed and can be accessed at the following URL:
-[Deployment URL will be added after deployment]
+[[Deployment URL will be added after deployment](https://wingman-coding-challenge-task.vercel.app/)]
