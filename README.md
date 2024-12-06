@@ -2,6 +2,9 @@
 
 A modern e-commerce product catalog built with Vite, React, TypeScript, and Redux Toolkit.
 
+The application is deployed and can be accessed at the following URL:
+[[Click here](https://wingman-coding-challenge-task.vercel.app/)]
+
 ## Features
 
 - Responsive grid layout
